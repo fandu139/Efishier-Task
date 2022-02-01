@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner component test snapshot test should render correctly 1`] = `
+<ActivityIndicator
+  accessibilityLabel="loading-indicator"
+  color="#EF4941"
+  size="large"
+  testID="loading-indicator"
+/>
+`;

@@ -4,7 +4,7 @@ import { View, StyleSheet, Text, Image } from 'react-native';
 import { IMAGE_DEFAULT_EMPTY_LIST } from '../../assets/image';
 
 type Props = {
-  image?: string | number;
+  image?: number;
   title?: string;
   testID?: string;
   accessibilityLabel?: string;
@@ -17,8 +17,10 @@ const EmptyContent: React.FC<Props> = ({ title, image, testID, accessibilityLabe
     accessibilityLabel={accessibilityLabel || testID}
   >
     <Image
-      source={image as number}
+      source={image}
       style={styles.image}
+      testID={testID}
+      accessibilityLabel={accessibilityLabel}
     />
     <Text>{title}</Text>
   </View>
