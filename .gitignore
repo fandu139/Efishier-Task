@@ -58,3 +58,10 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+# test coverage
+clover.xml
+coverage-final.json
+lcov-report
+coverage
+/lcov.info

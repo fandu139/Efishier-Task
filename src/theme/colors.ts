@@ -1,7 +1,6 @@
 const Colors = {
   BLACK: '#202020',
   BLACK_50: '#505050',
-  BLACK: '#202020',
   RED: '#EF4941',
   RED_10: '#EF49411A',
   RED_PRESSED: '#d9433c',
