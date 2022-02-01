@@ -12,6 +12,9 @@ Tech Features:
 7. React Native Vector Icons
 8. Stein js client
 
+## Explanation UI
+You can go to this link https://github.com/fandu139/Efishier-Task/blob/main/docs/EXPLANATION.md
+
 ## Setup Environment
 First, setup your environment by following this guide on https://reactnative.dev/docs/environment-setup
 
