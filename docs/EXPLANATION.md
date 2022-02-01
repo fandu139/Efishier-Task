@@ -25,4 +25,4 @@ The aplication have four screen main
 | Item for edit/delete data | ![import icon](./image/Image8.png) |
 
 ## Video Demo
-Look vidoe demo this link https://icomoon.io/
+Look vidoe demo this link https://www.loom.com/share/4777ce136e904fe5b723db36ad24959d
